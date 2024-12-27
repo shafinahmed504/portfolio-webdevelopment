@@ -1,0 +1,61 @@
+
+.open-sans-font {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+#nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.commonstyles{
+    color: #FD6E0A;
+}
+
+
+
+nav li{
+    list-style: none;
+    padding-left: 50px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.dark-2{
+    color: #474747;
+}
+
+
+
+
+#grandfather{
+    display: flex; 
+    align-items: center;
+    padding-left: 50px;
+    justify-content: space-between;
+}
+
+nav ul li button{
+    width: 150px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+}
+
+
+#father{
+    padding-right: 80px;
+    display: flex;
+    align-items: center;
+
+}
