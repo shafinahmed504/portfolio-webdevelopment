@@ -50,6 +50,7 @@ nav ul li button{
     color: white;
     background-color: #FD6E0A;
     border-radius: 5px;
+    border: none;
 }
 
 
@@ -58,4 +59,17 @@ nav ul li button{
     display: flex;
     align-items: center;
 
+}
+
+#banner{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../images/developer.png),url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    
+}
+ #banner-content{ 
+   width: 585px;
+   height: 356px;
 }
