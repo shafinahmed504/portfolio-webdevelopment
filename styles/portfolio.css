@@ -12,6 +12,7 @@
 #nav-title{
     font-weight: 800;
     font-size: 45px;
+    margin-left: 90px;
 }
 
 .commonstyles{
@@ -64,12 +65,13 @@ nav ul li button{
 #banner{
     display: flex;
     justify-content: space-between;
-    background-image: url(../images/developer.png),url(../images/header_bg.png);
+    background-image: url(../images/developer.png)  ,url(../images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: top left, bottom right;
+    background-position:top left, bottom right;
     
 }
  #banner-content{ 
    width: 585px;
    height: 356px;
+   margin-left: 60px;
 }
