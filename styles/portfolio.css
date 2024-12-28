@@ -75,3 +75,37 @@ nav ul li button{
    height: 356px;
    margin-left: 60px;
 }
+#background-of-aboutme{
+    background-color: #FFF8F3;
+    text-align: center;
+    padding: 130px 157px 130px 157px;
+    border-radius: 5px;
+    
+}
+#about-section{
+    max-width: 1000px;
+    padding-top: 80px;
+
+    margin: 0 auto;
+}
+.abouttt{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.item-title{
+
+    color: #757575;
+    font-size: 20px;
+}
+.item-description{
+    font-weight: bold;
+    font-size: bold;
+}
+#full{
+    background-color: white;
+    border: solid black ;
+    border-width: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
