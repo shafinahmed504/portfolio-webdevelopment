@@ -120,7 +120,47 @@ nav ul li button{
     width: 267px;
     height: 377px;
     margin: 10px;
-    box-shadow: 1px 1px 6px 0px #1E1E1E ;
-   
+    box-shadow: 1px 1px 6px 0px #1E1E1E ;  
     padding: 30px 33px 30px 33px;
+}
+
+.resume-head{
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+.resume-head2{
+    font-weight: 600px;
+    font-size: 20px;
+    color: #757575;
+}
+.resume-description{
+    color: #757575;
+    font-size: 16px;
+}
+#ashol{
+    display: flex;
+    justify-content: center;
+}
+#experience{
+    margin-left: 50px;
+}
+#battu{
+    width: 150px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 400px;
+    color: white;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: none;
+    justify-self: center;
+
+}
+#battu-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
 }
