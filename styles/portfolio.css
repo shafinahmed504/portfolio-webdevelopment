@@ -164,3 +164,20 @@ nav ul li button{
     margin-top: 15px;
 
 }
+#last-part{
+    background-color: #FFF8F3;
+}
+#last-part{
+    display: flex;
+    gap: 200px;
+}
+a{
+    text-decoration: none;
+}
+#vejal{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    margin-bottom: 20px;
+}
+
